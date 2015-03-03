@@ -15,7 +15,7 @@
 
 
 ## Android 开源项目集合
-- [Github-iOS开源项目集合](http://github.ibireme.com/github/list/ios/)
+- [Github-iOS开源项目集合](https://github.com/Trinea/android-open-project/)
 
 ## Android 功能模块
 
