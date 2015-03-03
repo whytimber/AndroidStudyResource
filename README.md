@@ -8,17 +8,12 @@
 
 
 ##中文 Android 开发博客列表
-博客地址 | 博客地址 
------ | -----
-[OneV's Den](http://onevcat.com) | [破船之家](http://beyondvincent.com)
 
+- [著名Android开发者博客](https://github.com/android-cn/android-dev-com/)
 
 
 ## Android 开源项目集合
 - [Github-Android开源项目集合](https://github.com/Trinea/android-open-project/)
-
-## Android 功能模块
-
 
 ## Android 开发语言
 
