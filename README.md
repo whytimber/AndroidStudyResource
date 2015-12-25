@@ -3,6 +3,7 @@
 - [Android技术分享](https://github.com/android-cn)
 
 ## Android 学习站点
+- [稀土掘金，技术干货](http://gold.xitu.io/)
 - [DevDiv开发者社区，为移动设备、移动互联网、云计算、HTML5等技术人员提供专业技术交流与服务平台](http://www.devdiv.com/)
 - [App开发日报 | app.memect.com | 好东西传送门出品流](http://app.memect.com/)
 - [<<码农周刊>>干货精选（Android + iOS 篇） - 孢子社区 : 一起玩，不孤单](http://baoz.cn/452378)
